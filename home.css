@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right top, #134074, #004f7b, #005c80, #196a82, #337684, #41848a, #52918f, #659e93, #77b099, #8fc29d, #abd2a0, #cce2a3);
+}
+
+html {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.medsos {
+    background-color: #004f7b;
+    padding: 5px 0;
+}
+
+.medsos ul li {
+    display: inline-block;
+    color: #27374D;
+    margin-right: 10px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nama {
+    float: left;
+    padding: 10px 0;
+    color: #004f7b;
+    margin-top: 0px;
+    font-size: 40px;
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+}
+
+header ul li a:hover {
+    background-color: #004f7b;
+}
+
+.active {
+    background-color: #004f7b;
+}
+
+.banner {
+    margin-top: 130px;
+    margin-left: 100px;
+}
+
+.border {
+    border: 2px solid white;   
+    width: fit-content;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.border h1 {
+    font-size: 160px;
+    font-family: inconsolata;
+}
+
+.border h2 {
+    font-size: 40px;
+    font-family: inconsolata;
+}
+
+.border h3 {
+    font-size: 30px;
+    font-family: inconsolata;
+}
+
+.image {
+    margin-left: 680px;
+    margin-top: -170px;
+}
+

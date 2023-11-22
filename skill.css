@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right top, #134074, #004f7b, #005c80, #196a82, #337684, #41848a, #52918f, #659e93, #77b099, #8fc29d, #abd2a0, #cce2a3);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+html {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.medsos {
+    background-color: #004f7b;
+    padding: 5px 0;
+}
+
+.medsos ul li {
+    display: inline-block;
+    color: #27374D;
+    margin-right: 10px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nama {
+    float: left;
+    padding: 10px 0;
+    color: #004f7b;
+    margin-top: 0px;
+    font-size: 40px;
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+}
+
+header ul li a:hover {
+    background-color: #004f7b;
+}
+
+.active {
+    background-color: #004f7b;
+}
+
+.banner {
+    margin-top: 130px;
+    margin-left: 100px;
+}
+
+.skil h3 {
+    font-family: inconsolata;
+    float: left;
+    padding: 10px 0;
+    color: #004f7b;
+    margin-top: 0px;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 520px;
+    text-align: center;
+}
+
+.code img {
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 390px;
+}
+
+.code p {
+    font-family: inconsolata;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.MTK img{
+    height: 250px;
+    padding-top: 20px;
+    padding-left: 410px;
+}
+
+.MTK p {
+    font-family: inconsolata;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.futsal img {
+    height: 250px;
+    padding-top: 20px;
+    padding-left: 410px;
+}
+
+.futsal p {
+    font-family: inconsolata;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}

@@ -1,0 +1,164 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right top, #134074, #004f7b, #005c80, #196a82, #337684, #41848a, #52918f, #659e93, #77b099, #8fc29d, #abd2a0, #cce2a3);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+html {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.medsos {
+    background-color: #004f7b;
+    padding: 5px 0;
+}
+
+.medsos ul li {
+    display: inline-block;
+    color: #27374D;
+    margin-right: 10px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nama {
+    float: left;
+    padding: 10px 0;
+    color: #004f7b;
+    margin-top: 0px;
+    font-size: 40px;
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+}
+
+header ul li a:hover {
+    background-color: #004f7b;
+}
+
+.active {
+    background-color: #004f7b;
+}
+
+.banner {
+    margin-top: 130px;
+    margin-left: 100px;
+}
+
+.kontak h3 {
+    font-family: inconsolata;
+    float: left;
+    padding: 10px 0;
+    color: #004f7b;
+    margin-top: 0px;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 520px;
+    text-align: center;
+}
+.Address{
+    padding-top: 180px;
+    padding-left: 130px;
+    width: 250px;
+    height: 50px;
+}
+
+.Address p {
+    font-family: inconsolata;
+    font-size: 15px;
+    text-align: center;
+}
+
+.Address h4 {
+    color: black;
+    font-size: 30px;
+    padding-left: 70px;
+}
+
+.Email {
+    padding-top: 0px;
+    padding-left: 440px;
+    width: 150px;
+    height: 50px;
+    margin-top: -50px;
+}
+
+.Email h4 {
+    color: black;
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.Email p {
+    font-family: inconsolata;
+    font-size: 15px;
+}
+
+.Ins {
+    padding-top: 0px;
+    padding-left: 665px;
+    width: 150px;
+    height: 50px;
+    margin-top: -50px;
+}
+
+.Ins h4 {
+    color: black;
+    font-size: 30px;
+    padding-left: 0px;
+}
+
+.Ins p {
+    font-family: inconsolata;
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.Hp {
+    padding-top: 0px;
+    padding-left: 890px;
+    width: 80px;
+    height: 50px;
+    margin-top: -50px;
+}
+
+.Hp h4 {
+    color: black;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.Hp p {
+    font-family: inconsolata;
+    font-size: 15px;
+    padding-left: 0px;
+}
+
+.map {
+    padding-left: 40px;
+    padding-top: 35px;
+}
